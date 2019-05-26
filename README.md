@@ -1,2 +1,2 @@
 # project_python
-test2
+test
