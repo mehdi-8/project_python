@@ -1,6 +1,6 @@
 import pandas
 
-# import file
+# import file Version 2
 file = open(r"C:\Users\RBELMEHDI\Desktop\test.txt")
 # read file
 content = file.read()
